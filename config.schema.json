@@ -3,7 +3,7 @@
 	"pluginType": "platform",
 	"singular": false,
 	"headerDisplay": "Homebridge plugin for AqualinkD",
-	"footerDisplay": "For help visit [Homebridge-AqualinkD on GitHub](https://github.com/sfeakes/homebridge-aqualinkd) or [AqualinkD on GitHub](https://github.com/sfeakes/AqualinkD)",
+	"footerDisplay": "For help visit [Homebridge-AqualinkD on GitHub](https://github.com/aqualinkd/homebridge-aqualinkd) or [AqualinkD on GitHub](https://github.com/aqualinkd/AqualinkD)",
 	"schema": {
 		"type": "object",
 		"properties": {

@@ -1,7 +1,7 @@
 {
   "name": "homebridge-aqualinkd",
-  "version": "0.3.7",
-  "description": "aqualinkd Platform plugin for homebridge: https://github.com/sfeakes/homebridge-aqualinkd",
+  "version": "0.3.8",
+  "description": "aqualinkd Platform plugin for homebridge: https://github.com/aqualinkd/homebridge-aqualinkd",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sfeakes/homebridge-aqualinkd.git"
+    "url": "git://github.com/aqualinkd/homebridge-aqualinkd.git"
   },
   "bugs": {
-    "url": "http://github.com/sfeakes/homebridge-aqualinkd/issues"
+    "url": "http://github.com/aqualinkd/homebridge-aqualinkd/issues"
   },
   "OLD-engines-OLD": {
     "node": ">=14.168.1",

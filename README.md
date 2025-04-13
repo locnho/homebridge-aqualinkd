@@ -2,8 +2,8 @@
 
 A Homebridge-Plugin, used to connect AqualinkD to AppleHomeKit using Homebridge.
 
-for use with [AqualinkD](https://github.com/sfeakes/AqualinkD)
-Depends on [Homebridge](https://github.com/nfarina/homebridge) v0.4.40+
+for use with [AqualinkD](https://github.com/AqualinkD/AqualinkD)
+Depends on [Homebridge](https://github.com/homebridge/homebridge) v0.4.40+
 
 
 ## Homebridge platform plugin for AqualinkD
@@ -12,8 +12,8 @@ See AqualinkD and AqualinkD Wiki for full information.
 
 ## Installation prerequisites
 
-1) Install [AqualinkD](https://github.com/sfeakes/AqualinkD)
-2) Install [Homebridge](https://github.com/nfarina/homebridge) on any machine
+1) Install [AqualinkD](https://github.com/AqualinkD/AqualinkD)
+2) Install [Homebridge](https://github.com/homebridge/homebridge) on any machine
 3) Optional install [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
 
 ## Installation

@@ -1,9 +1,12 @@
 # Change Log
 
+## v0.3.8 (2025-04-13)
+### Featured Changes
+* Changed URL's to new repo location [AqualinkD organization](https://github.com/aqualinkd/).
+
 ## v0.3.7 (2025-03-23)
 ### Featured Changes
 * Added Heat Pump / Chiller support.
-* Changes for new repo location.
 
 ## v0.3.6 (2024-10-13)
 ### Featured Changes
