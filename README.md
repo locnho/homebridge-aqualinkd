@@ -1,3 +1,7 @@
+# homebridge-aqualinkd for PDA-PS6 with Light Selection Support
+
+This fork support PDA-PS6 with Light Selection. In order to take advandage of this, you will need the corresponding change from https://github.com/locnho/AqualinkD.
+
 # homebridge-aqualinkd
 
 A Homebridge-Plugin, used to connect AqualinkD to AppleHomeKit using Homebridge.
